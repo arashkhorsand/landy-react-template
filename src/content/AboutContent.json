@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Results You Can See, Reports You Can Trust",
+  "text": "At Adzstorm, we specialize in SEO, SEM, and impactful Social Media Ads, turning your data into clear insights. With us, you don't just get promises—you get measurable results and transparent reporting. Watch your growth happen in real-time with analytics that make sense.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Why Adzstorm?",
+      "content": "Adzstorm turns clicks into customers with measurable SEO, SEM, and social media results.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "",
+      "content": "Transparent, clear reports—so you always see exactly how your marketing performs.",
       "icon": "notes.svg"
     }
   ]
