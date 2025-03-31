@@ -6,15 +6,6 @@ import MissionContent from "../../content/MissionContent.json";
 import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
 
-import Pricing from "../components/pricing";
-
-// Inside the component render
-<>
-  ...
-  <Pricing />
-  ...
-</>
-
 const Contact = lazy(() => import("../../components/ContactForm"));
 const MiddleBlock = lazy(() => import("../../components/MiddleBlock"));
 const Container = lazy(() => import("../../common/Container"));
