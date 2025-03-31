@@ -6,7 +6,7 @@ import MissionContent from "../../content/MissionContent.json";
 import ProductContent from "../../content/ProductContent.json";
 import ContactContent from "../../content/ContactContent.json";
 
-import Pricing from "../components/Pricing";
+import Pricing from "../components/pricing";
 
 // Inside the component render
 <>
